@@ -10,9 +10,6 @@ Two consecutive lists will render with the last item of the first list wrapped i
 2. Test
 3. Test
 
-* One
-* Two
-* Three
 
 
 hi
